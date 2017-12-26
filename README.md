@@ -1,3 +1,3 @@
 # GraphQL-react
-GraphQL with node JS and React tutorial
-https://medium.com/@Kilrogg/using-graphql-api-with-node-js-and-react-forms-8b13f4b26361
+GraphQL with node JS and React tutorial with Redux and Redux-Thunk usage
+https://levelup.gitconnected.com/enhancing-your-react-graphql-app-with-redux-and-redux-thunk-90c556aff1c5
